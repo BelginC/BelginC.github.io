@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>ArntAlgo</h1>
+<h1>ArtnAlgo</h1>
 <p>Here we go!</p>
 
 </body>
